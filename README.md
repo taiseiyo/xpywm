@@ -74,8 +74,10 @@ $ pip3 install xpywm
 $ pip3 install xpylog
 ```
 
-you edit .xinitrc and .Xdefaults
-	       
+You edit .xinitrc and .Xdefaults
+
+And you install xconsole-fonts-**
+
 	       
 # CUSTOMIZATION
 
