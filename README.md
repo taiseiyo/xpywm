@@ -71,8 +71,12 @@ None
 
 ```sh
 $ pip3 install xpywm
+$ pip3 install xpylog
 ```
 
+you edit .xinitrc and .Xdefaults
+	       
+	       
 # CUSTOMIZATION
 
 On startup, **xpywm** loads per-user RC script (`~/.xpywmrc`) if it exists.
